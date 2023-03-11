@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achyutneupane
 - 👀 I’m interested in Python and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web projects
 - 📫 Nachyut.com.np.
 
 <!---
